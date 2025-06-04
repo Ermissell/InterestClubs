@@ -13,7 +13,7 @@ import os
 import random
 
 
-API_TOKEN = "8091469144:AAFICJucLvkl0x5Zqjda08vMd9yjpUyty6Y"
+API_TOKEN = "token_name"
 bot = Bot(token=API_TOKEN)
 
 dp = Dispatcher()
